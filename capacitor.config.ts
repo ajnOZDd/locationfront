@@ -1,5 +1,5 @@
 import { CapacitorConfig } from '@capacitor/cli';
-
+import * as LiveUpdates from '@capacitor/live-updates';
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'locationfront',
@@ -13,5 +13,7 @@ const config: CapacitorConfig = {
     }
   }
 };
+
+
 
 export default config;
