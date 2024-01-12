@@ -1,0 +1,7 @@
+{
+  "name": "locationfront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
